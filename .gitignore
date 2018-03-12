@@ -9,3 +9,4 @@ out
 gen
 /.cvsignore
 /My program.iml
+.gitignore
